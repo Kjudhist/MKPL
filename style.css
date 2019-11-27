@@ -2,7 +2,7 @@
 
 body{
     font-family: 'Lato', sans-serif;
-     background-color: lightblue;
+    background-color: rgb(91, 191, 224);
 }
 .content{
     margin: 100vh;
@@ -13,4 +13,8 @@ body{
 
 .bar{
     color: rgb(93, 248, 209);
+}
+table{
+    border: 1px;
+    border-block-color: rgb(182, 241, 19);
 }
